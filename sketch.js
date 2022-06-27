@@ -122,7 +122,7 @@ function setup()
 
 function draw() 
 {
-  image(backgroundIMG,width/2,height/2,displayWidth+80,displayHeight);
+  image(backgroundIMG,width/2,height/2,displayWidth+101,displayHeight);
   corda.show();
   corda2.show();
   corda3.show();
